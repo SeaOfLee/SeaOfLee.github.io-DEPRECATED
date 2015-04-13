@@ -38,6 +38,11 @@ angular.module('leeApp', ['ngRoute'])
       controller  : 'mainCtrl'
     })
 
+    .when('/resume', {
+      templateUrl : 'pages/resume.html',
+      controller  : 'resumeCtrl'
+    })
+
     .otherwise({
       redirectTo: '/'
     });
@@ -84,4 +89,9 @@ angular.module('leeApp', ['ngRoute'])
 
 .controller('contactCtrl', function($scope) {
 
+})
+
+.controller('resumeCtrl', function($scope) {
+  
 });
+
