@@ -80,7 +80,7 @@ h1 a:hover {
 }
 
 .top-bar-section .left {
-  margin-left: 3rem;
+  margin-left: 3.5rem;
 }
 
 #dev {
@@ -124,7 +124,7 @@ h1 a:hover {
 /*layout style*/
 .name_small {
 margin-top: .55rem;
-margin-left: 1rem;  
+margin-left: 1rem;
 }
 
 
@@ -134,7 +134,7 @@ margin-left: 1rem;
   line-height: 2.8125rem;
   position: relative;
   background: #333333;
-  margin-bottom: 0; 
+  margin-bottom: 0;
   /*border-bottom: .4rem solid black;*/}
   .top-bar ul {
     margin-bottom: 0;
