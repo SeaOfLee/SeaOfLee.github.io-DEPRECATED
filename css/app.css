@@ -26,7 +26,8 @@ h1 a:hover {
 }
 
 .contact_icons {
-  margin-top: 20%;
+  /*margin-top: 20%;*/
+  padding: 10% 0 10% 0;
 }
 
 @media (max-width: 705px) {
